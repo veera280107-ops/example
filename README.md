@@ -9,5 +9,3 @@ This project contains HTML practice files.
 
 ## Purpose
 Learning HTML and web development.
-
-edited on GitHub
